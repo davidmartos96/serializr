@@ -1,6 +1,6 @@
 {
     "name": "@skilldevs/serializr",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "publishConfig": {
         "registry": "https://skilldevs.jfrog.io/artifactory/api/npm/skilldevs-npm/"
     },
