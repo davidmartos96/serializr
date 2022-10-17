@@ -1799,6 +1799,40 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@skilldevs/serializr@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@skilldevs/serializr@workspace:."
+  dependencies:
+    "@babel/cli": ^7.2.3
+    "@babel/core": ^7.18.10
+    "@babel/plugin-proposal-class-properties": ^7.3.0
+    "@babel/plugin-proposal-decorators": ^7.3.0
+    "@babel/preset-env": ^7.3.1
+    "@rollup/plugin-typescript": ^8.1.0
+    "@types/tape": ^4.2.33
+    "@typescript-eslint/eslint-plugin": ^5.33.0
+    "@typescript-eslint/parser": ^5.33.0
+    babel-eslint: ^10.0.1
+    coveralls: ^3.0.2
+    documentation: ^12.1.4
+    eslint: ^8.21.0
+    eslint-plugin-import: ^2.16.0
+    lodash.merge: ^4.6.0
+    mobx: ^6.6.1
+    nodemon: ^2.0.2
+    nyc: ^15.0.0
+    prettier: ^2.0.4
+    rimraf: ^3.0.1
+    rollup: ^2.77.3
+    rollup-plugin-terser: ^7.0.2
+    tape: ^4.9.2
+    tslib: ^2.4.0
+    typedoc: 0.23.10
+    typescript: ^4.1.3
+    unescape: ^1.0.1
+  languageName: unknown
+  linkType: soft
+
 "@tootallnate/once@npm:2":
   version: 2.0.0
   resolution: "@tootallnate/once@npm:2.0.0"
@@ -7641,40 +7675,6 @@ __metadata:
   checksum: 3273b3394b951671fcf388726e9577021870dfbf85e742a1183fb2e91273e6101bdccea81ff230724f6659a7ee4cef924b0ff9baca32b79d9384ec37caf07302
   languageName: node
   linkType: hard
-
-"serializr@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "serializr@workspace:."
-  dependencies:
-    "@babel/cli": ^7.2.3
-    "@babel/core": ^7.18.10
-    "@babel/plugin-proposal-class-properties": ^7.3.0
-    "@babel/plugin-proposal-decorators": ^7.3.0
-    "@babel/preset-env": ^7.3.1
-    "@rollup/plugin-typescript": ^8.1.0
-    "@types/tape": ^4.2.33
-    "@typescript-eslint/eslint-plugin": ^5.33.0
-    "@typescript-eslint/parser": ^5.33.0
-    babel-eslint: ^10.0.1
-    coveralls: ^3.0.2
-    documentation: ^12.1.4
-    eslint: ^8.21.0
-    eslint-plugin-import: ^2.16.0
-    lodash.merge: ^4.6.0
-    mobx: ^6.6.1
-    nodemon: ^2.0.2
-    nyc: ^15.0.0
-    prettier: ^2.0.4
-    rimraf: ^3.0.1
-    rollup: ^2.77.3
-    rollup-plugin-terser: ^7.0.2
-    tape: ^4.9.2
-    tslib: ^2.4.0
-    typedoc: 0.23.10
-    typescript: ^4.1.3
-    unescape: ^1.0.1
-  languageName: unknown
-  linkType: soft
 
 "set-blocking@npm:^2.0.0":
   version: 2.0.0
